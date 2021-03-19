@@ -1,6 +1,6 @@
 # 소개
 
-
+<img src = "a.jpg">
 
 * 권지훈
 * Email : misas777@gmail.com
