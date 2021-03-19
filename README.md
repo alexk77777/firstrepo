@@ -4,7 +4,7 @@
 
 * 권지훈
 * Email : misas777@gmail.com
-* Github : [github.com/alexk77777](https://github.com/alexk77777)
+* Github : [github.com/alexk77777](https://github.com/alexk77777/firstrepo)
 
 
 # 경력
