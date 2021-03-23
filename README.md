@@ -1,4 +1,4 @@
-# 소개
+# 이력서 30% + 자기소개서 70% 
 
 <img src = "funny_cat.gif">
 
@@ -33,7 +33,6 @@
  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=alexk77777&show_icons=true&theme=radical">
   </a>
-
 
 # 운동 계통 취미
 * [농구]
