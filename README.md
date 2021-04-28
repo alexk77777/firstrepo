@@ -15,7 +15,7 @@
     - 기간 : 20xx ~ 2015.12
 
 # 인생 프로젝트
-## buravel project
+## credux project
 `credux, 2021.3-`
  지인들끼리 모여 제 인생 첫 개발 프로젝트 진행 중. 저는 기획총괄인 Project Manager를 담당하고 있습니다.
 
