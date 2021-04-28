@@ -16,8 +16,8 @@
 
 # 인생 프로젝트
 ## buravel project
-`버라벨, 2021.2-`
-지인들끼리 모여 제 인생 첫 개발 프로젝트 진행 중. 저는 기획총괄인 Project Manager를 담당하고 있습니다.
+`credux, 2021.3-`
+ 지인들끼리 모여 제 인생 첫 개발 프로젝트 진행 중. 저는 기획총괄인 Project Manager를 담당하고 있습니다.
 
 ## to be a flutter programmer
  내 아이디어를 구현할 플러터 프로그래머가 된다!
